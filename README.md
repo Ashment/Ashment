@@ -1,5 +1,5 @@
-BS ECE '21 @ NYU Tandon
-Interested in Heterogeneous Embedded Systems, FPGAs, and Hardware Acceleration.
+## BS ECE '21 @ NYU Tandon
+## Interested in Heterogeneous Embedded Systems, FPGAs, and Hardware Acceleration.
 
 [![Ashment's Github Stats](https://github-readme-stats.vercel.app/api?username=Ashment)](https://github.com/Ashment/github-readme-stats)
 
