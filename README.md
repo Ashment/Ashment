@@ -1,6 +1,10 @@
 ### BS ECE '21 @ NYU Tandon School of Engineering
 #### Interested in Heterogeneous Embedded Systems, FPGAs, and Hardware Acceleration.
 
+I also do music!
+- :musical_score: [Soundcloud](https://soundcloud.com/ashment)
+- :guitar: [Youtube](https://www.youtube.com/channel/UClM6ApTwiVqNMFnQBKkbLSA)
+
 [![Ashment's Github Stats](https://github-readme-stats.vercel.app/api?username=Ashment)](https://github.com/Ashment/github-readme-stats)
 
 <!--
