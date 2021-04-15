@@ -1,5 +1,7 @@
 [![Ashment's Github Stats](https://github-readme-stats.vercel.app/api?username=Ashment)](https://github.com/Ashment/github-readme-stats)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashment&layout=compact)](https://github.com/Ashment/github-readme-stats)
+
 <!--
 **Ashment/Ashment** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
