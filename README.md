@@ -8,6 +8,8 @@ Interested in Heterogeneous Embedded Systems, FPGAs, and Hardware Acceleration.
 **Games?**
 - :video_game: [itch.io](https://gundamme.itch.io/)
 
+<br><br>
+
 [![Ashment's Github Stats](https://github-readme-stats.vercel.app/api?username=Ashment)](https://github.com/Ashment/github-readme-stats)
 
 <!--
