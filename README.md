@@ -1,5 +1,5 @@
-### BS ECE '21 @ NYU Tandon School of Engineering
-#### Interested in Heterogeneous Embedded Systems, FPGAs, and Hardware Acceleration.
+#### BS ECE '21 @ NYU Tandon School of Engineering
+Interested in Heterogeneous Embedded Systems, FPGAs, and Hardware Acceleration.
 
 **I also do music!**
 - :musical_score: [Soundcloud](https://soundcloud.com/ashment)
