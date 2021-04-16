@@ -3,7 +3,7 @@ Interested in Heterogeneous Embedded Systems, FPGAs, and Hardware Acceleration.
 
 
 
-**I also do music**
+**I Also Do Music**
 - :musical_score: [Soundcloud](https://soundcloud.com/ashment)
 - :guitar: [Youtube](https://www.youtube.com/channel/UClM6ApTwiVqNMFnQBKkbLSA)
 
