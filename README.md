@@ -12,7 +12,7 @@ Interested in Heterogeneous Embedded Systems, FPGAs, and Hardware Acceleration.
 
 <br>
 
-[![Ashment's Github Stats](https://github-readme-stats.vercel.app/api?username=Ashment)](https://github.com/Ashment/github-readme-stats)
+[![Ashment's Github Stats](https://github-readme-stats.vercel.app/api?username=Ashment)](https://github.com/Ashment)
 
 <!--
 **Ashment/Ashment** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
