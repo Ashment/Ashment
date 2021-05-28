@@ -9,10 +9,6 @@ Interested in Heterogeneous Embedded Systems, FPGAs, and Hardware Acceleration.
 
 **And Game Jams**
 - :video_game: [itch.io](https://gundamme.itch.io/)
-
-**Twitter**
-@manaphonic
-
 <br>
 
 [![Ashment's Github Stats](https://github-readme-stats.vercel.app/api?username=Ashment)](https://github.com/Ashment)
