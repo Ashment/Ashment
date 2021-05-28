@@ -5,8 +5,8 @@ Interested in Heterogeneous Systems, FPGAs, Computer Architecture.
 
 
 **I Also Do Music**
-- :musical_score: [Soundcloud](https://soundcloud.com/ashment)
 - :guitar: [Youtube](https://www.youtube.com/channel/UClM6ApTwiVqNMFnQBKkbLSA)
+- :musical_score: [Soundcloud](https://soundcloud.com/ashment)
 
 **And Game Jams**
 - :video_game: [itch.io](https://gundamme.itch.io/)
