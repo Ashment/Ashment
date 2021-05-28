@@ -1,4 +1,4 @@
-#### BS ECE '21 @ NYU Tandon School of Engineering
+#### MSEE @ Columbia University
 Interested in Heterogeneous Embedded Systems, FPGAs, and Hardware Acceleration.
 
 
@@ -9,6 +9,9 @@ Interested in Heterogeneous Embedded Systems, FPGAs, and Hardware Acceleration.
 
 **And Game Jams**
 - :video_game: [itch.io](https://gundamme.itch.io/)
+
+**Twitter**
+@manaphonic
 
 <br>
 
