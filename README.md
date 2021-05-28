@@ -1,5 +1,5 @@
 ### MSEE @ Columbia University
-ECE '21 NYU Tandon School of Engineering
+ECE '21 NYU Tandon School of Engineering <br>
 Interested in Heterogeneous Embedded Systems, FPGAs, and Hardware Acceleration.
 
 
