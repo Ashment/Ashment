@@ -2,7 +2,8 @@
 ECE '21 NYU Tandon School of Engineering <br>
 Interested in Embedded Systems, FPGAs, Computer Architecture.
 
-
+[davidhou.me](https://davidhou.me)
+<br>
 
 **I Also Do Music**
 - :guitar: [Youtube](https://www.youtube.com/channel/UClM6ApTwiVqNMFnQBKkbLSA)
